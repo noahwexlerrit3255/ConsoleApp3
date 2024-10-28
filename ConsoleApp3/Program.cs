@@ -44,7 +44,7 @@
             //Experimenting with Inheritance
             Paladin knight = new Paladin("Sir Arthur", huntingBow);
             knight.PrintStatsInfo();
-
+            //ok
             //Testing external files
             Adventurer mike = new Adventurer("Mike");
             mike.PrintStatsInfo();
